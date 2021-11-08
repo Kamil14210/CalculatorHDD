@@ -32,7 +32,7 @@ namespace dobor_dysku_v3
         private double oblicz()
 
         {
-            
+            //convert and calculate result
                 bitrate = Convert.ToDouble(mtbShowBitrate.Text);
                 double a = Convert.ToDouble(mtbHowCameras.Text.Replace(".", ","));
                 double b = Convert.ToDouble(mtbHowDay.Text.Replace(".", ","));
@@ -129,7 +129,7 @@ namespace dobor_dysku_v3
         }
         private void compression()
         {
-
+            //choose bitrate according compression
             if (mcbSelectResolution.SelectedIndex == 0 && mrbH64.Checked)
             {
                 bitrate = 1700;
@@ -357,6 +357,7 @@ namespace dobor_dysku_v3
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {
+            //click on picture
             System.Diagnostics.Process.Start("https://stackoverflow.com/");
             //pictureBox1.ImageLocation = "https://stackoverflow.com/";
         }
