@@ -1,0 +1,40 @@
+C:\Users\Montersi\source\repos\dobor dysku v3\dobor dysku v3\bin\Release\dobor dysku v3.exe.config
+C:\Users\Montersi\source\repos\dobor dysku v3\dobor dysku v3\bin\Release\dobor dysku v3.exe
+C:\Users\Montersi\source\repos\dobor dysku v3\dobor dysku v3\bin\Release\dobor dysku v3.pdb
+C:\Users\Montersi\source\repos\dobor dysku v3\dobor dysku v3\bin\Release\MetroFramework.Design.dll
+C:\Users\Montersi\source\repos\dobor dysku v3\dobor dysku v3\bin\Release\MetroFramework.dll
+C:\Users\Montersi\source\repos\dobor dysku v3\dobor dysku v3\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Montersi\source\repos\dobor dysku v3\dobor dysku v3\obj\Release\dobor dysku v3.csprojAssemblyReference.cache
+C:\Users\Montersi\source\repos\dobor dysku v3\dobor dysku v3\obj\Release\dobor_dysku_v3.Kalkulator.resources
+C:\Users\Montersi\source\repos\dobor dysku v3\dobor dysku v3\obj\Release\dobor_dysku_v3.Properties.Resources.resources
+C:\Users\Montersi\source\repos\dobor dysku v3\dobor dysku v3\obj\Release\dobor dysku v3.csproj.GenerateResource.cache
+C:\Users\Montersi\source\repos\dobor dysku v3\dobor dysku v3\obj\Release\dobor dysku v3.csproj.CoreCompileInputs.cache
+C:\Users\Montersi\source\repos\dobor dysku v3\dobor dysku v3\obj\Release\dobor dysku v3.csproj.CopyComplete
+C:\Users\Montersi\source\repos\dobor dysku v3\dobor dysku v3\obj\Release\dobor dysku v3.exe
+C:\Users\Montersi\source\repos\dobor dysku v3\dobor dysku v3\obj\Release\dobor dysku v3.pdb
+C:\Users\kamil\source\repos\dobor dysku v3\dobor dysku v3\bin\Release\dobor dysku v3.exe.config
+C:\Users\kamil\source\repos\dobor dysku v3\dobor dysku v3\bin\Release\dobor dysku v3.exe
+C:\Users\kamil\source\repos\dobor dysku v3\dobor dysku v3\bin\Release\dobor dysku v3.pdb
+C:\Users\kamil\source\repos\dobor dysku v3\dobor dysku v3\bin\Release\MetroFramework.Design.dll
+C:\Users\kamil\source\repos\dobor dysku v3\dobor dysku v3\bin\Release\MetroFramework.dll
+C:\Users\kamil\source\repos\dobor dysku v3\dobor dysku v3\bin\Release\MetroFramework.Fonts.dll
+C:\Users\kamil\source\repos\dobor dysku v3\dobor dysku v3\obj\Release\dobor dysku v3.csprojAssemblyReference.cache
+C:\Users\kamil\source\repos\dobor dysku v3\dobor dysku v3\obj\Release\dobor_dysku_v3.Kalkulator.resources
+C:\Users\kamil\source\repos\dobor dysku v3\dobor dysku v3\obj\Release\dobor_dysku_v3.Properties.Resources.resources
+C:\Users\kamil\source\repos\dobor dysku v3\dobor dysku v3\obj\Release\dobor dysku v3.csproj.GenerateResource.cache
+C:\Users\kamil\source\repos\dobor dysku v3\dobor dysku v3\obj\Release\dobor dysku v3.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\dobor dysku v3\dobor dysku v3\obj\Release\dobor dysku v3.csproj.CopyComplete
+C:\Users\kamil\source\repos\dobor dysku v3\dobor dysku v3\obj\Release\dobor dysku v3.exe
+C:\Users\kamil\source\repos\dobor dysku v3\dobor dysku v3\obj\Release\dobor dysku v3.pdb
+C:\Moje\mgr\dobor dysku v3\dobor dysku v3\obj\Release\dobor_dysku_v3.Kalkulator.resources
+C:\Moje\mgr\dobor dysku v3\dobor dysku v3\obj\Release\dobor dysku v3.csproj.GenerateResource.cache
+C:\Moje\mgr\dobor dysku v3\dobor dysku v3\obj\Release\dobor dysku v3.exe
+C:\Moje\mgr\dobor dysku v3\dobor dysku v3\obj\Release\dobor dysku v3.pdb
+C:\Moje\mgr\dobor dysku v3\dobor dysku v3\bin\Release\dobor dysku v3.exe.config
+C:\Moje\mgr\dobor dysku v3\dobor dysku v3\bin\Release\dobor dysku v3.exe
+C:\Moje\mgr\dobor dysku v3\dobor dysku v3\bin\Release\dobor dysku v3.pdb
+C:\Moje\mgr\dobor dysku v3\dobor dysku v3\bin\Release\MetroFramework.Design.dll
+C:\Moje\mgr\dobor dysku v3\dobor dysku v3\bin\Release\MetroFramework.dll
+C:\Moje\mgr\dobor dysku v3\dobor dysku v3\bin\Release\MetroFramework.Fonts.dll
+C:\Moje\mgr\dobor dysku v3\dobor dysku v3\obj\Release\dobor_dysku_v3.Properties.Resources.resources
+C:\Moje\mgr\dobor dysku v3\dobor dysku v3\obj\Release\dobor dysku v3.csproj.CoreCompileInputs.cache
