@@ -1,0 +1,24 @@
+C:\Users\Kamillo\Documents\GitHub\CalculatorHDD\dobor dysku v3\bin\Release\dobor dysku v3.exe.config
+C:\Users\Kamillo\Documents\GitHub\CalculatorHDD\dobor dysku v3\bin\Release\dobor dysku v3.exe
+C:\Users\Kamillo\Documents\GitHub\CalculatorHDD\dobor dysku v3\bin\Release\dobor dysku v3.pdb
+C:\Users\Kamillo\Documents\GitHub\CalculatorHDD\dobor dysku v3\bin\Release\MetroFramework.Design.dll
+C:\Users\Kamillo\Documents\GitHub\CalculatorHDD\dobor dysku v3\bin\Release\MetroFramework.dll
+C:\Users\Kamillo\Documents\GitHub\CalculatorHDD\dobor dysku v3\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Kamillo\Documents\GitHub\CalculatorHDD\dobor dysku v3\obj\Release\dobor_dysku_v3.Kalkulator.resources
+C:\Users\Kamillo\Documents\GitHub\CalculatorHDD\dobor dysku v3\obj\Release\dobor_dysku_v3.Properties.Resources.resources
+C:\Users\Kamillo\Documents\GitHub\CalculatorHDD\dobor dysku v3\obj\Release\dobor_dysku_v3.csproj.GenerateResource.cache
+C:\Users\Kamillo\Documents\GitHub\CalculatorHDD\dobor dysku v3\obj\Release\dobor_dysku_v3.csproj.CoreCompileInputs.cache
+C:\Users\Kamillo\Documents\GitHub\CalculatorHDD\dobor dysku v3\obj\Release\dobor dysku v3.exe
+C:\Users\Kamillo\Documents\GitHub\CalculatorHDD\dobor dysku v3\obj\Release\dobor dysku v3.pdb
+C:\Users\Kamillo\Documents\GitHub\CalculatorHDD\dobor_dysku_v3\bin\Release\dobor_dysku_v3.exe.config
+C:\Users\Kamillo\Documents\GitHub\CalculatorHDD\dobor_dysku_v3\bin\Release\dobor_dysku_v3.exe
+C:\Users\Kamillo\Documents\GitHub\CalculatorHDD\dobor_dysku_v3\bin\Release\dobor_dysku_v3.pdb
+C:\Users\Kamillo\Documents\GitHub\CalculatorHDD\dobor_dysku_v3\bin\Release\MetroFramework.Design.dll
+C:\Users\Kamillo\Documents\GitHub\CalculatorHDD\dobor_dysku_v3\bin\Release\MetroFramework.dll
+C:\Users\Kamillo\Documents\GitHub\CalculatorHDD\dobor_dysku_v3\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Kamillo\Documents\GitHub\CalculatorHDD\dobor_dysku_v3\obj\Release\dobor_dysku_v3.Kalkulator.resources
+C:\Users\Kamillo\Documents\GitHub\CalculatorHDD\dobor_dysku_v3\obj\Release\dobor_dysku_v3.Properties.Resources.resources
+C:\Users\Kamillo\Documents\GitHub\CalculatorHDD\dobor_dysku_v3\obj\Release\dobor_dysku_v3.csproj.GenerateResource.cache
+C:\Users\Kamillo\Documents\GitHub\CalculatorHDD\dobor_dysku_v3\obj\Release\dobor_dysku_v3.csproj.CoreCompileInputs.cache
+C:\Users\Kamillo\Documents\GitHub\CalculatorHDD\dobor_dysku_v3\obj\Release\dobor_dysku_v3.exe
+C:\Users\Kamillo\Documents\GitHub\CalculatorHDD\dobor_dysku_v3\obj\Release\dobor_dysku_v3.pdb
